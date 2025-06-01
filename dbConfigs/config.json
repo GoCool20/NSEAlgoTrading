@@ -1,0 +1,23 @@
+{
+  "db_type": "sqlite",
+
+
+  "sqlite": {
+    "db_path": "data.db"
+  },
+
+  "mysql": {
+    "user": "root",
+    "password": "password",
+    "host": "localhost",
+    "port": 3306,
+    "database": "testdb"
+  },
+
+  "oracle": {
+    "user": "user",
+    "password": "pass",
+    "dsn": "localhost/XEPDB1"
+  }
+}
+
